@@ -19,10 +19,10 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Navigate to client directory
+    - name: Install dependencies
       working-directory: ./game-project
       run: npm install
 
-    - name: Run Jest tests
+    - name: Run tests
       working-directory: ./game-project
       run: npm test
