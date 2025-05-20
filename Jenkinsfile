@@ -5,14 +5,14 @@ pipeline {
         stage('Install dependencies') {
             steps {
                 dir('game-project') {
-                    sh 'npm install'
+                    bat 'npm install'
                 }
             }
         }
         stage('Run Tests') {
             steps {
                 dir('game-project') {
-                    sh 'npm test'
+                    bat 'npm test'
                 }
             }
         }
