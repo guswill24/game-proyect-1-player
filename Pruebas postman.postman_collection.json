@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "ce6df59d-47e7-4786-a310-050eb3f1129e",
+		"name": "Pruebas postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45099987",
+		"_collection_link": "https://juancamilomartinez-1017792.postman.co/workspace/dc4b4a83-7c84-4862-896d-4a9042b92a71/collection/45099987-ce6df59d-47e7-4786-a310-050eb3f1129e?action=share&source=collection_link&creator=45099987"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

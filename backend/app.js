@@ -18,6 +18,7 @@ app.get('/', (req, res) => {
         `)
 });
 
+
 // Rutas
 
 app.use('/api/blocks', blockRoutes) 
